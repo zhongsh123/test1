@@ -2,4 +2,7 @@
 
 phpinfo()
 
+boy 
+
+i think
 ?>
