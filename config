@@ -4,4 +4,4 @@
 	bare = true
 
 [receive]
-denyCurrentBranch = false
+denyCurrentBranch = ignore
